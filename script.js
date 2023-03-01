@@ -1,4 +1,4 @@
-const API_KEY = "311f2765388f25c8b24a896ae1756652";
+//const API_KEY = "311f2765388f25c8b24a896ae1756652";
 
 const renderWeatherInfo = (data) => {
     let newPara = document.createElement('p');
